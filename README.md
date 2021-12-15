@@ -5,7 +5,7 @@
 - 📫 How to reach me: find me at work.
 
 -Familiar Languages: C++, Javascript, HTML, Python<br>
--Lightly used: SQL, CSS<br>
+-Lightly used: MySQL, CSS<br>
 -Forgotten Languages: ADA, PERL, Scheme, Java<br>
 
 
