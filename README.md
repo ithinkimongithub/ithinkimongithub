@@ -2,7 +2,7 @@
 - 👀 I’m interested in...
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Enterprise-Level information systems
-- 📫 How to reach me: find me at work.
+- 📫 How to reach me: thomas.kubler@gmail.com
 
 -Familiar Languages: C++, Javascript, HTML, Python<br>
 -Lightly used: MySQL, CSS, MATLAB<br>
