@@ -8,11 +8,11 @@
 -Lightly used: MySQL, CSS<br>
 -Forgotten Languages: ADA, PERL, Scheme, Java<br>
 
-Some projects: 
+Some projects: <br>
 <a href=https://ithinkimongithub.github.io/ECE315Web/>ECE315Web</a><br>
 <a href=https://ithinkimongithub.github.io/ECE-Radar-Project/>EW Scenario</a><br>
 <a href=https://ithinkimongithub.github.io/daqtar/>DAQ</a><br>
-<a href=https://ithinkimongithub.github.io/LaTeXer/>LaTeXer</a><br>\
+<a href=https://ithinkimongithub.github.io/LaTeXer/>LaTeXer</a><br>
 <a href=https://ithinkimongithub.github.io/speller/>Speller-Combin</a><br>
 
 <!---
