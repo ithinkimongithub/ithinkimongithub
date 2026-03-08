@@ -8,6 +8,10 @@
 -Lightly used: MySQL, CSS<br>
 -Forgotten Languages: ADA, PERL, Scheme, Java<br>
 
+Some projects: 
+<a href=https://ithinkimongithub.github.io/ECE315Web/>ECE315Web</a><br>
+<a href=https://ithinkimongithub.github.io/ECE-Radar-Project/>EW Scenario</a><br>
+<a href=https://ithinkimongithub.github.io/daqtar/>DAQ</a><br>
 
 <!---
 ithinkimongithub/ithinkimongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
